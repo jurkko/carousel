@@ -1,4 +1,4 @@
-# navigation_example
+# Simple Carousel
 
 A new Flutter application.
 
